@@ -1,5 +1,5 @@
-name: Build_Trading_APK
-on: [push] # Se activa cada vez que subes cambios desde VS Code
+name: Build APK
+on: [push, pull_request] # Se activa cada vez que subes cambios desde VS Code
 
 jobs:
   build:
