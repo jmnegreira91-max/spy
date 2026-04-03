@@ -31,8 +31,8 @@ fullscreen = 0
 android.permissions = INTERNET
 
 # (int) API de Android (33 es el estándar actual)
-android.api = 33
-android.minapi = 21
+android.api = 35
+android.minapi = 24
 android.ndk = 25b
 android.archs = arm64-v8a, armeabi-v7a
 
