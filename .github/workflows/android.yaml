@@ -1,5 +1,5 @@
 name: Build with Buildozer
-on: [push, pull_request] # Se activa cada vez que subes cambios desde VS Code
+on: [push] # Se activa cada vez que subes cambios desde VS Code
 
 jobs:
   build:
